@@ -1,5 +1,5 @@
 <?php
-include"ch06-5-02.inc";
+include "ch06-5-1.inc";
 include_once ("ch06-5-2.inc");
 
 $amount = 1000;
