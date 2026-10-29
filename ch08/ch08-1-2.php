@@ -1,6 +1,6 @@
 <?php
 include("about_me.php");
-echo "EX04";
+echo "EX02";
 $ip = $_SERVER['REMOTE_ADDR']; // 取得指定伺服器變數
 echo "IP ADDRESS:" . $ip . "<br/>";
 $path = $_SERVER["SCRIPT_NAME"];
