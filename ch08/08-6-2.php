@@ -1,6 +1,6 @@
 <?php
 require("about_me.php");
-echo "v-EX05" . "<br/>";
+echo "v-EX01" . "<br/>";
 session_start();
 
 if (!isset($_SESSION["page_counter"])) {
